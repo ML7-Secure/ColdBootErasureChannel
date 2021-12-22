@@ -1,2 +1,2 @@
 # ColdBootErasureChannel
-Correction of AES-keys decayed by binary erasure channel
+Correction of AES-keys decayed according to binary erasure channel
